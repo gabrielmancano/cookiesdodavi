@@ -4,7 +4,7 @@ import happyCookie from "../../assets/happy-cookie.png";
 
 export function Sobre() {
     return(
-        <Container id="pedidos">
+        <Container id="sobre">
             <Content>
             <div>        
                         <h2>Quem somos</h2>
